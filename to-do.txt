@@ -1,0 +1,8 @@
+FOOTER
+- create vectors for share buttons
+- embed them
+- link them
+- center them?
+
+HEADER
+- how to host multi page site?
